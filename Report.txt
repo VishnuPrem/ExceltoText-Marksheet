@@ -1,0 +1,70 @@
+       
+
+
+          
+             MANIPAL UNIVERISTY DUBAI
+
+NAME: Micheal 
+REG NO: 1231
+
+Sno.        Subject        Sub.code
+1           Maths             MAT
+2           Chemistry         CHM
+3           Computer          CMP
+4           English           ENG
+       
+
+
+          
+             MANIPAL UNIVERISTY DUBAI
+
+NAME: Pam
+REG NO: 1232
+
+Sno.        Subject        Sub.code
+1           Maths             MAT
+2           Physics           PHY
+3           Chemistry         CHM
+4           Computer          CMP
+5           English           ENG
+       
+
+
+          
+             MANIPAL UNIVERISTY DUBAI
+
+NAME: Toby
+REG NO: 1233
+
+Sno.        Subject        Sub.code
+1           Physics           PHY
+2           Chemistry         CHM
+3           Computer          CMP
+4           English           ENG
+       
+
+
+          
+             MANIPAL UNIVERISTY DUBAI
+
+NAME: Dwight
+REG NO: 1234
+
+Sno.        Subject        Sub.code
+1           Maths             MAT
+2           Physics           PHY
+3           Chemistry         CHM
+4           Computer          CMP
+5           English           ENG
+       
+
+
+          
+             MANIPAL UNIVERISTY DUBAI
+
+NAME: Kelly
+REG NO: 1235
+
+Sno.        Subject        Sub.code
+1           Maths             MAT
+2           English           ENG
